@@ -11,7 +11,8 @@
 - [Set_Script](commands/Set_Script.md),
 - [Set_sprite](commands/Set_sprite.md),
 - [Sys_Wait](commands/Sys_Wait.md),
-- [Meta](commands/Meta.md).
+- [Meta](commands/Meta.md),
+- [Set_Var](commands/Set_Var.md).
 
 ## Christmas at Greyling Grove
 

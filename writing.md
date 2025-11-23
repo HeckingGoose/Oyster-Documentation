@@ -95,12 +95,12 @@ $"I am a string, $[name]"
 
 #### Declaring a Variable
 
-To declare a variable, the command `'Dec_Var'` should be used, an example is shown below:
+To declare a variable, the command `'Set_Var'` should be used, an example is shown below:
 ```
-Dec_Var ["MyNumber", 100]
+Set_Var ["MyNumber", 100]
 ```
 
 As another example, a variable can be passed to initialise a variable:
 ```
-Dec_Var ["MyCopy", $myVar]
+Set_Var ["MyCopy", $myVar]
 ```
