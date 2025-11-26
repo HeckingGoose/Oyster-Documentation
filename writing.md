@@ -79,10 +79,10 @@ Supported as of Oyster 4.0.0.
 Variables can be used in various places within Oyster. The basic syntax for passing a variable is:
 
 ```
-$[name]
+$variableName
 ```
 
-Where '`[name]`' is the name of the variable and `$` states that a variable is being used.
+Where '`variableName`' is the name of the variable and `$` states that a variable is being used.
 
 Variables can be passed to any valid Oyster command, given that the variable type matches that of the parameter that is being replaced.
 
@@ -90,7 +90,7 @@ Variables can be passed to any valid Oyster command, given that the variable typ
 
 Variables can also be used within strings, to do this the string should be proceeded with a `$`. An example of this would be:
 ```
-$"I am a string, $[name]"
+$"I am a string, {variableName}"
 ```
 
 #### Declaring a Variable
