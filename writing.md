@@ -104,3 +104,5 @@ As another example, a variable can be passed to initialise a variable:
 ```
 Set_Var ["MyCopy", $myVar]
 ```
+
+Variables are supported as of Oyster 4.1.0.
