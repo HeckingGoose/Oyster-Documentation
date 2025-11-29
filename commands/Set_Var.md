@@ -1,4 +1,4 @@
-# Dec_Var
+# Set_Var
 
 ## Parameters
 
