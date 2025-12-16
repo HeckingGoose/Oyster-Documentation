@@ -95,14 +95,14 @@ $"I am a string, {variableName}"
 
 #### Declaring a Variable
 
-To declare a variable, the command `'Set_Var'` should be used, an example is shown below:
+To declare a variable, any subcommand of `Set_Var` should be used. As an example:
 ```
-Set_Var ["MyNumber", 100]
+Set_IntVar ["MyNumber", 100]
 ```
 
 As another example, a variable can be passed to initialise a variable:
 ```
-Set_Var ["MyCopy", $myVar]
+Set_IntVar ["MyNumberCopy", $MyNumber]
 ```
 
 Variables are supported as of Oyster 4.1.0.
