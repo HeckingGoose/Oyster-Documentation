@@ -11,6 +11,8 @@
 - [Set_Script](commands/Set_Script.md),
 - [Set_sprite](commands/Set_sprite.md),
 - [Sys_Wait](commands/Sys_Wait.md),
+- [Set_FOV](commands/Set_FOV.md),
+- [Set_Colour](commands/Set_Colour.md),
 - [Meta](commands/Meta.md),
 - [Set_Var](commands/Set_Var.md).
 
@@ -26,8 +28,6 @@
 
 ## Speed Dating for the Socially Inept
 
-- [Set_FOV](commands/Set_FOV.md),
-- [Set_Colour](commands/Set_Colour.md),
 - [Show_Options](commands/Show_Options.md),
 - [Inc_Affection](commands/Inc_Affection.md),
 - [Call_Puppet](commands/Call_Puppet.md).
