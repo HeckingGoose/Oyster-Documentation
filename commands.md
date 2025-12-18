@@ -14,7 +14,9 @@
 - [Set_FOV](commands/Set_FOV.md),
 - [Set_Colour](commands/Set_Colour.md),
 - [Meta](commands/Meta.md),
-- [Set_Var](commands/Set_Var.md).
+- [Set_IntVar](commands/Set_IntVar.md),
+- [Set_BoolVar](commands/Set_BoolVar.md),
+- [Set_StringVar](commands/Set_StringVar.md).
 
 ## Christmas at Greyling Grove
 
