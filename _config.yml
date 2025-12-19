@@ -1,4 +1,4 @@
-title: Oyster Documentation
+title: The Oyster Docs
 email: allison@abulman.com
 description: >- # this means to ignore newlines until "baseurl:"
   The official homepage of documentation for the Oyster scripting language.
@@ -21,6 +21,8 @@ defaults:
 theme: just-the-docs
 plugins:
   - jekyll-feed
+
+favicon_ico: "/Assets/Image/favicon.webp"
 
 
 # Exclude from processing.
