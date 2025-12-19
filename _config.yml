@@ -1,0 +1,47 @@
+title: The Oyster Docs
+email: allison@abulman.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The official homepage of documentation for the Oyster scripting language.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://oyster.abulman.com" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  heckinggoose
+main_website: "https://abulman.com"
+oyster_currentver: "4.1.0"
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
+# Build settings
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+
+favicon_ico: "/Assets/Image/favicon.webp"
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+
+exclude:
+  - README.md
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

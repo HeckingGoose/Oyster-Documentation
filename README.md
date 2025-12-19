@@ -1,11 +1,3 @@
-# Oyster Specification Index
+# Oyster Documentation
 
-### [Command names](commands.md)
-
-### [How it works internally](thehow.md)
-
-### [Writing scripts](writing.md)
-
-### [Writing new commands](newcommands.md)
-
-### [Creating implementations for game engines](implementing.md)
+This repo contains the source code for the Oyster documentation, the hosted page can be found at [oyster.abulman.com](https://oyster.abulman.com).
