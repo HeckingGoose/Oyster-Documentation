@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Check_Win
-permalink: /suppportedcommands/grovegame/check_win
+permalink: /supportedcommands/grovegame/check_win
 parent: Christmas at Greyling Grove
 ---
 

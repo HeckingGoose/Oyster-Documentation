@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Show_Options
-permalink: /suppportedcommands/ineptdategame/show_options
+permalink: /supportedcommands/ineptdategame/show_options
 parent: Speed Dating for the Socially Inept
 ---
 

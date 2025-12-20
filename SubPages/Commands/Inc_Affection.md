@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Inc_Affection
-permalink: /suppportedcommands/ineptdategame/inc_affection
+permalink: /supportedcommands/ineptdategame/inc_affection
 parent: Speed Dating for the Socially Inept
 ---
 

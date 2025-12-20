@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Jump_To
-permalink: /suppportedcommands/base/jump_to
+permalink: /supportedcommands/base/jump_to
 parent: Base
 ---
 

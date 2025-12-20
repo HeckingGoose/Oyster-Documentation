@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supported Commands
-permalink: /suppportedcommands/
+permalink: /supportedcommands/
 has_toc: true
 ---
 

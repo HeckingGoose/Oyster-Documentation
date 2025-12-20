@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Looker
-permalink: /suppportedcommands/base/set_looker
+permalink: /supportedcommands/base/set_looker
 parent: Base
 ---
 

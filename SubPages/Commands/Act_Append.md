@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Act_Append
-permalink: /suppportedcommands/base/act_append
+permalink: /supportedcommands/base/act_append
 parent: Base
 ---
 

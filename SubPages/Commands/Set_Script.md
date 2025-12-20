@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Script
-permalink: /suppportedcommands/base/set_script
+permalink: /supportedcommands/base/set_script
 parent: Base
 ---
 

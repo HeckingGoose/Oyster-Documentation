@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Colour
-permalink: /suppportedcommands/base/set_colour
+permalink: /supportedcommands/base/set_colour
 parent: Base
 ---
 

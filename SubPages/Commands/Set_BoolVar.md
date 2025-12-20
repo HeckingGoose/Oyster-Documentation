@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_BoolVar
-permalink: /suppportedcommands/base/set_boolvar
+permalink: /supportedcommands/base/set_boolvar
 parent: Base
 ---
 

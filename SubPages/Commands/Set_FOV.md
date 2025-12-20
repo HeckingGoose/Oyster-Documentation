@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_FOV
-permalink: /suppportedcommands/base/set_fov
+permalink: /supportedcommands/base/set_fov
 parent: Base
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Christmas at Greyling Grove
-permalink: /suppportedcommands/grovegame
+permalink: /supportedcommands/grovegame
 parent: Supported Commands
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Check_Has
-permalink: /suppportedcommands/grovegame/check_has
+permalink: /supportedcommands/grovegame/check_has
 parent: Christmas at Greyling Grove
 ---
 

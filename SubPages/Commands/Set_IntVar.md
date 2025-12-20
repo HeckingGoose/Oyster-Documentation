@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_IntVar
-permalink: /suppportedcommands/base/set_intvar
+permalink: /supportedcommands/base/set_intvar
 parent: Base
 ---
 
