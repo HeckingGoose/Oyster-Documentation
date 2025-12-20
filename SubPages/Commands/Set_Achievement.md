@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Achievement
-permalink: /suppportedcommands/grovegame/set_achievement
+permalink: /supportedcommands/grovegame/set_achievement
 parent: Christmas at Greyling Grove
 ---
 

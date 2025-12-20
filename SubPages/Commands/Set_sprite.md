@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Sprite
-permalink: /suppportedcommands/base/set_sprite
+permalink: /supportedcommands/base/set_sprite
 parent: Base
 ---
 

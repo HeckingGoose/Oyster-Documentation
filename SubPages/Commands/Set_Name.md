@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Name
-permalink: /suppportedcommands/base/set_name
+permalink: /supportedcommands/base/set_name
 parent: Base
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Give_Item
-permalink: /suppportedcommands/grovegame/give_item
+permalink: /supportedcommands/grovegame/give_item
 parent: Christmas at Greyling Grove
 ---
 

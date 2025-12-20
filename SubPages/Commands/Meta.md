@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meta
-permalink: /suppportedcommands/base/meta
+permalink: /supportedcommands/base/meta
 parent: Base
 ---
 

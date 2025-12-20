@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Line_Marker
-permalink: /suppportedcommands/base/line_marker
+permalink: /supportedcommands/base/line_marker
 parent: Base
 ---
 

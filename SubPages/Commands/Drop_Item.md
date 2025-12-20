@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Drop_Item
-permalink: /suppportedcommands/grovegame/drop_item
+permalink: /supportedcommands/grovegame/drop_item
 parent: Christmas at Greyling Grove
 ---
 

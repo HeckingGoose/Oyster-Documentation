@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call_Puppet
-permalink: /suppportedcommands/base/call_puppet
+permalink: /supportedcommands/base/call_puppet
 parent: Base
 ---
 

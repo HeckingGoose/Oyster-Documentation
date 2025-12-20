@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Act_Speak
-permalink: /suppportedcommands/base/act_speak
+permalink: /supportedcommands/base/act_speak
 parent: Base
 ---
 

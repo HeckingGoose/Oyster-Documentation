@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sys_Wait
-permalink: /suppportedcommands/base/sys_wait
+permalink: /supportedcommands/base/sys_wait
 parent: Base
 ---
 

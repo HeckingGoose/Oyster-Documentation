@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Start_Credits
-permalink: /suppportedcommands/grovegame/start_credits
+permalink: /supportedcommands/grovegame/start_credits
 parent: Christmas at Greyling Grove
 ---
 

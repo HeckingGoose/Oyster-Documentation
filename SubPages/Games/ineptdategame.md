@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Speed Dating for the Socially Inept
-permalink: /suppportedcommands/ineptdategame
+permalink: /supportedcommands/ineptdategame
 parent: Supported Commands
 ---
 

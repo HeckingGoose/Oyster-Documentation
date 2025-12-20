@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_StringVar
-permalink: /suppportedcommands/base/set_stringvar
+permalink: /supportedcommands/base/set_stringvar
 parent: Base
 ---
 
