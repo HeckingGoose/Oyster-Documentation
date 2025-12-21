@@ -22,7 +22,7 @@ theme: just-the-docs
 plugins:
   - jekyll-feed
 
-favicon_ico: "/Assets/Image/favicon.webp"
+favicon_ico: "/favicon.ico"
 
 
 # Exclude from processing.
