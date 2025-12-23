@@ -24,7 +24,3 @@ Changes the value of the name display in the conversation to the given name. **D
 ## Version Info
 
 This command has been supported as of Oyster 4.0.0.
-
-## Version Info
-
-This command has been supported as of Oyster 4.0.0.
