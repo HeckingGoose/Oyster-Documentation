@@ -21,12 +21,12 @@ jobs:
           ruby-version: '3.4' # Specify the Ruby version you need
           bundler-cache: true
       
-      - name: Setup Jeykll
+      - name: Setup Jekyll
         run: |
           gem install jekyll bundler
           bundle install
 
-      - name: Build Jeykll Site
+      - name: Build Jekyll Site
         run: bundle exec jekyll build
 
       - name: Deploy to Cloudflare Pages
