@@ -6,4 +6,8 @@ permalink: /newengineimplementations/
 
 # Implementing Oyster for a new game engine
 
-Not written this yet :)
+Still in the process of creating the first proper formal engine implementation.
+
+Please come back soon, hopefully it'll be done by then.
+
+:D
