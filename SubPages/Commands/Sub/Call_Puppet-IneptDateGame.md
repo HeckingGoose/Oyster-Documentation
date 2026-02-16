@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call_Puppet
+title: Speed Dating for the Socially Inept
 permalink: /supportedcommands/base/call_puppet/ineptdategame
 parent: Call_Puppet
 ---
