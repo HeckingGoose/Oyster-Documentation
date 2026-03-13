@@ -13,8 +13,12 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.2-x64-mingw-ucrt)
+    ffi (1.17.2-x86_64-linux-gnu)
     forwardable-extended (2.6.0)
     google-protobuf (4.33.2-x64-mingw-ucrt)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.33.2-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -76,6 +80,8 @@ GEM
     safe_yaml (1.0.5)
     sass-embedded (1.97.0-x64-mingw-ucrt)
       google-protobuf (~> 4.31)
+    sass-embedded (1.97.0-x86_64-linux-gnu)
+      google-protobuf (~> 4.31)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     tzinfo (2.0.6)
@@ -88,6 +94,7 @@ GEM
 
 PLATFORMS
   x64-mingw-ucrt
+  x86_64-linux-gnu
 
 DEPENDENCIES
   http_parser.rb (~> 0.6.0)
@@ -108,8 +115,10 @@ CHECKSUMS
   em-websocket (0.5.3) sha256=f56a92bde4e6cb879256d58ee31f124181f68f8887bd14d53d5d9a292758c6a8
   eventmachine (1.2.7) sha256=994016e42aa041477ba9cff45cbe50de2047f25dd418eba003e84f0d16560972
   ffi (1.17.2-x64-mingw-ucrt) sha256=15d2da54ee578657a333a6059ed16eaba1cbd794ceecd15944825b65c8381ac0
+  ffi (1.17.2-x86_64-linux-gnu) sha256=05d2026fc9dbb7cfd21a5934559f16293815b7ce0314846fee2ac8efbdb823ea
   forwardable-extended (2.6.0) sha256=1bec948c469bbddfadeb3bd90eb8c85f6e627a412a3e852acfd7eaedbac3ec97
   google-protobuf (4.33.2-x64-mingw-ucrt) sha256=16ed6f9c96da64c8d5c4ee763b58ab62c5e1431128891f4fe1d74370e4419e61
+  google-protobuf (4.33.2-x86_64-linux-gnu) sha256=73cba041477afcac92ff383fcbdec195ea28d96b994876d1deaa944d18f91786
   http_parser.rb (0.8.0) sha256=5a0932f1fa82ce08a8516a2685d5a86031c000560f89946913c555a0697544be
   i18n (1.14.7) sha256=ceba573f8138ff2c0915427f1fc5bdf4aa3ab8ae88c8ce255eb3ecf0a11a5d0f
   jekyll (4.4.1) sha256=4c1144d857a5b2b80d45b8cf5138289579a9f8136aadfa6dd684b31fe2bc18c1
@@ -134,6 +143,7 @@ CHECKSUMS
   rouge (4.6.1) sha256=5075346d5797d6864be93f7adc75a16047a7dbfa572c63c502419ffa582c77de
   safe_yaml (1.0.5) sha256=a6ac2d64b7eb027bdeeca1851fe7e7af0d668e133e8a88066a0c6f7087d9f848
   sass-embedded (1.97.0-x64-mingw-ucrt) sha256=d0c714cf4daa05598b0b3da1503e0ccd6d6df271625ab3b16f0f96fd26b8e187
+  sass-embedded (1.97.0-x86_64-linux-gnu) sha256=47f5dcb7235f81ea313a539904d8f179a63c2467d90f06e5cb42dc3017bef7c0
   terminal-table (3.0.2) sha256=f951b6af5f3e00203fb290a669e0a85c5dd5b051b3b023392ccfd67ba5abae91
   tzinfo (2.0.6) sha256=8daf828cc77bcf7d63b0e3bdb6caa47e2272dcfaf4fbfe46f8c3a9df087a829b
   tzinfo-data (1.2025.3) sha256=b546e2f1e5e5c40a0c619aafb24e30d3d6a128c2f689278f721b7286dd499562
