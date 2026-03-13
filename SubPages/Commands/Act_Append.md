@@ -25,6 +25,8 @@ parent: Base
 
 Appends the given text to the end of the main text box.
 
+When not muted, plays back a random sound from the character's `CharacterSound` component at a fixed rate while text is being pushed. Defaults to 2.5x the rate at which characters are pushed to the text display. Setting the integer variable `mumblesPerSecond` earlier in the script than an act command will override this default behaviour such that the time between sounds is one divided by `mumblesPerSecond`.
+
 ## Version Info
 
 This command has been supported as of Oyster 4.0.0.
