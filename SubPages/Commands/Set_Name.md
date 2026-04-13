@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Name
-permalink: /supportedcommands/base/set_name
+permalink: /writing/supportedcommands/base/set_name
 parent: Base
 ---
 
@@ -19,7 +19,14 @@ parent: Base
 
 ## Functionality
 
-Changes the value of the name display in the conversation to the given name. **Does not change the name of the character beyond the scope of the current conversation**. Is intended to be used to spoof multiple characters, alongside Set_Looker.
+Changes the value of the name display in the conversation to the given name. **Does not change the name of the character themselves**, the change is only visual for the current conversation. Is intended to be used to spoof multiple characters, alongside Set_Looker.
+
+## Examples
+
+```oscript
+Set_Name ["Paul"]
+```
+Sets the text of the name display to `Paul`.
 
 ## Version Info
 

@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Writing Scripts
-permalink: /writingscripts/
+permalink: /writing/writingscripts/
+parent: For Script Writers
 ---
 
 # Writing an oscript

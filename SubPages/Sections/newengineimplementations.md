@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Making A New Implementation
-permalink: /newengineimplementations/
+title: For Engine Developers
+permalink: /engine/
 ---
 
-# Implementing Oyster for a new game engine
+# Implementing Oyster for a game engine
+
+**If you are adding Oyster to a game, disregard this entire section and search for an engine-specific implementation for the engine you are using, if one does not exist then please use this section to create an engine-specific implementation. This section is targetted for developers looking to make new implementations for an engine of their choice.**
 
 This page will discuss creating a new engine-specific integration for your chosen game engine. Due to it being focussed on being a general guide, no specific game-engines will be mentioned here, instead a list of classes that should be implemented will be discussed. On top of that, it will be mentioned how 'Required' it is to implement each of these classes.
 

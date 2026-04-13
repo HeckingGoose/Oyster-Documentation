@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Deliver_Gift
-permalink: /supportedcommands/grovegame/deliver_gift
+permalink: /writing/supportedcommands/grovegame/deliver_gift
 parent: Christmas at Greyling Grove
 ---
 
@@ -22,6 +22,13 @@ parent: Christmas at Greyling Grove
 ## Functionality
 
 Marks the named gift as being delivered to the named person. This marking is what is checked by 'Check_Has' and 'Check_Win'.
+
+## Examples
+
+```oscript
+Deliver_Gift ["Katia", "Chris_0"]
+```
+Updates the character `Katia` to have received the gift `Chris_0`.
 
 ## Version Info
 

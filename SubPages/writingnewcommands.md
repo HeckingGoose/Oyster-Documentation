@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Writing New Commands
-permalink: /writingnewcommands/
+permalink: /games/writingnewcommands/
+parent: For Game Developers
 ---
 
 # Writing new Oyster commands

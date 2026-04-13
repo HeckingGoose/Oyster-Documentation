@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_StringVar
-permalink: /supportedcommands/base/set_stringvar
+permalink: /writing/supportedcommands/base/set_stringvar
 parent: Base
 ---
 
@@ -22,6 +22,13 @@ parent: Base
 ## Functionality
 
 Declares a variable with the given value. If the variable already exists, then it updates the value of the variable to the given value. When updating the value of a variable, the type must be the same as the original value, or else this command will skip updating the value.
+
+## Examples
+
+```oscript
+Set_StringVar ["MyString", "SomethingTexty"]
+```
+Creates or sets a string variable named `MyString` to the value `SomethingTexty`.
 
 ## Version Info
 

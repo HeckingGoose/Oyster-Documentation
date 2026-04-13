@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Check_Win
-permalink: /supportedcommands/grovegame/check_win
+permalink: /writing/supportedcommands/grovegame/check_win
 parent: Christmas at Greyling Grove
 ---
 
@@ -22,6 +22,13 @@ parent: Christmas at Greyling Grove
 ## Functionality
 
 A very hardcoded command that simply checks if a certain number of presents have been delivered. Given that a certain number of presents have been delivered, the script is jumped to the line marker named by 'Parameter1'. Otherwise, jumps to the line marker described by 'Parameter2'.
+
+## Examples
+
+```oscript
+Check_Win ["Won", "Not Won"]
+```
+Given the game's win condition is true, jumps to the line marker `Won`, otherwise jumps to the line marker `Not Won`.
 
 ## Version Info
 

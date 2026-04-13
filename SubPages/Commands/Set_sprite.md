@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Sprite
-permalink: /supportedcommands/base/set_sprite
+permalink: /writing/supportedcommands/base/set_sprite
 parent: Base
 ---
 
@@ -20,6 +20,13 @@ parent: Base
 ## Functionality
 
 Changes the current sprite to the one described by the above parameter, if the sprite does not exist, should swap to an error sprite.
+
+## Examples
+
+```oscript
+Set_Sprite ["Idle"]
+```
+Tells the game to swap the character being spoken to to their `Idle` sprite. If the sprite does not exist, the game should swap the character to an error sprite.
 
 ## Version Info
 

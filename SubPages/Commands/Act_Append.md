@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Act_Append
-permalink: /supportedcommands/base/act_append
+permalink: /writing/supportedcommands/base/act_append
 parent: Base
 ---
 
@@ -26,6 +26,18 @@ parent: Base
 Appends the given text to the end of the main text box.
 
 When not muted, plays back a random sound from the character's `CharacterSound` component at a fixed rate while text is being pushed. Defaults to 2.5x the rate at which characters are pushed to the text display. Setting the integer variable `mumblesPerSecond` earlier in the script than an act command will override this default behaviour such that the time between sounds is one divided by `mumblesPerSecond`.
+
+## Examples
+
+```oscript
+Act_Append ["Hello, I will output some text"]
+```
+Will output the given text and then wait for a 'Nudge' before continuing, plus pushes each character one at a time.
+
+```oscript
+Act_Append ["Hello, I will output some text", instant=True, mute=True]
+```
+Will output the given text in its entirety in one tick, then wait for a 'Nudge' before continuing.
 
 ## Version Info
 

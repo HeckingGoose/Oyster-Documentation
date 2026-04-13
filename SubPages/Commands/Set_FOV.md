@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_FOV
-permalink: /supportedcommands/base/set_fov
+permalink: /writing/supportedcommands/base/set_fov
 parent: Base
 ---
 
@@ -20,6 +20,13 @@ parent: Base
 ## Functionality
 
 Updates Oyster's 'Target FOV' value, given the new value is different, Oyster will lerp to the new FOV value quickly while running other commands.
+
+## Examples
+
+```oscript
+Set_FOV [100]
+```
+Sets the camera's FOV to `100` degrees.
 
 ## Version Info
 

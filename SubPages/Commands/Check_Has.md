@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Check_Has
-permalink: /supportedcommands/grovegame/check_has
+permalink: /writing/supportedcommands/grovegame/check_has
 parent: Christmas at Greyling Grove
 ---
 
@@ -26,6 +26,13 @@ parent: Christmas at Greyling Grove
 ## Functionality
 
 Checks whether the given character 'has' the given item, as in whether the player has delivered this item to them. Jumps to the respective line markers for whether the check passes or fails.
+
+## Examples
+
+```oscript
+Check_Has ["Jenny", "Alyx_0", "FirstPass", "Not Delivered"]
+```
+Checks if the character `Jenny` has received the gift `Alxy_0`, with it jumping to the line marker `FirstPass` if they have received it, and `Not Delivered` if they have not received it.
 
 ## Version Info
 

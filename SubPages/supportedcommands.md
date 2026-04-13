@@ -1,8 +1,9 @@
 ---
 layout: page
 title: Supported Commands
-permalink: /supportedcommands/
+permalink: /writing/supportedcommands/
 has_toc: true
+parent: For Script Writers
 ---
 
 # Supported Commands

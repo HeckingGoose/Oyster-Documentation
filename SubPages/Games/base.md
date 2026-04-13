@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Base
-permalink: /supportedcommands/base
+permalink: /writing/supportedcommands/base
 parent: Supported Commands
 ---
 
