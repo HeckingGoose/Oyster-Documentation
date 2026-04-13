@@ -13,20 +13,20 @@ Oyster itself can be found at [this page](https://github.com/HeckingGoose/Oyster
 
 # How do I write Oyster scripts?
 
-For information on how to write Oyster scripts, check [here](writingscripts).
+For information on how to write Oyster scripts, check [here](/writing/writingscripts/).
 
 # What commands are supported?
 
-For information on which commannds are supported in Oyster, check [here](supportedcommands).
+For information on which commannds are supported in Oyster, check [here](/writing/supportedcommands/).
 
 # Can I write new commands for Oyster?
 
-Oyster is designed to be expanded upon with custom commands that can be written by developers using Oyster (as a matter of fact under [Supported Commands](supportedcommands), the game specific commands are implemented via this expandability!). For information on how to write your own commands for your own projects involving Oyster, check out [this page](writingnewcommands).
+Oyster is designed to be expanded upon with custom commands that can be written by developers using Oyster (as a matter of fact under [Supported Commands](/writing/supportedcommands/), the game specific commands are implemented via this expandability!). For information on how to write your own commands for your own projects involving Oyster, check out [this page](/writing/writingscripts/).
 
 # What if my game engine doesn't have an implementation for it yet?
 
-You can write your own game engine specific implementation of Oyster's abstract classes! Information on what you'll need to implement can be found [here](newengineimplementations).
+You can write your own game engine specific implementation of Oyster's abstract classes! Information on what you'll need to implement can be found [here](/engine/).
 
 # But like, how does this all work internally?
 
-If you're curious about how Oyster works internally, a write-up can be found [here](howitworksinternally).
+If you're curious about how Oyster works internally, a write-up can be found [here](/games/howitallworks/).
