@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Script
-permalink: /supportedcommands/base/set_script
+permalink: /writing/supportedcommands/base/set_script
 parent: Base
 ---
 
@@ -22,6 +22,18 @@ parent: Base
 Changes the script that the current character is pointing to to the given value, intended to allow for characters to change conversation between chats or based on given events. **Does not reload the script after being called, player has to manually re-enter conversation, nor does it cause the current conversation to end**.
 
 Supplying a blank string as the parameter causes the character to go to the script prior to their current one, or the script they are already using, if there is no prior script.
+
+## Examples
+
+```oscript
+Set_Script ["Conv/Script2"]
+```
+Sets the target script of the character currently in conversation to `Conv/Script2`. This will be the script accessed next time a conversation is started with them.
+
+```oscript
+Set_Script [""]
+```
+Sets the target script of the character currently in conversation to the character's prior script. Allowing for conversations to be pushed and popped somewhat like a stack.
 
 ## Version Info
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call_Puppet-IneptDateGame
-permalink: /supportedcommands/base/call_puppet/ineptdategame
+permalink: /writing/supportedcommands/base/call_puppet/ineptdategame
 parent: Call_Puppet
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_Colour
-permalink: /supportedcommands/base/set_colour
+permalink: /writing/supportedcommands/base/set_colour
 parent: Base
 ---
 
@@ -28,6 +28,20 @@ parent: Base
 Sets the colour of the character's name to the parameters specified in one frame.
 
 If all parameters are passed as '-1', then Oyster resets the text colour to its original value from the start of the conversation.
+
+The valid range of values for each parameter is 0-255.
+
+## Examples
+
+```oscript
+Set_Colour [0, 0, 0, 0]
+```
+Sets the character's name colour to be the colour black and fully transparent.
+
+```oscript
+Set_Colour [255, 0, 0, 192]
+```
+Sets the character's name colour to be the colour bright red and a small bit transparent.
 
 ## Version Info
 

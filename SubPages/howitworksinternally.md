@@ -1,10 +1,11 @@
 ---
 layout: page
-title: How it all works
-permalink: /howitallworks/
+title: Conversation Overview
+permalink: /games/howitallworks/
+parent: For Game Developers
 ---
 
-# Starting a conversation
+# Conversation Overview
 
 ## Loading an OSF file
 

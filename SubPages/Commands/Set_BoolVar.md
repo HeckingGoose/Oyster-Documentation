@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Set_BoolVar
-permalink: /supportedcommands/base/set_boolvar
+permalink: /writing/supportedcommands/base/set_boolvar
 parent: Base
 ---
 
@@ -22,6 +22,15 @@ parent: Base
 ## Functionality
 
 Declares a variable with the given value. If the variable already exists, then it updates the value of the variable to the given value. When updating the value of a variable, the type must be the same as the original value, or else this command will skip updating the value.
+
+Boolean values can be either true or false.
+
+## Examples
+
+```oscript
+Set_BoolVar ["MyBool", true]
+```
+Sets a boolean variable named `MyBool` to the value `true`. Given the variable does not exist, creates it.
 
 ## Version Info
 

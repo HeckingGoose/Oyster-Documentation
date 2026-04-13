@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meta
-permalink: /supportedcommands/base/meta
+permalink: /writing/supportedcommands/base/meta
 parent: Base
 ---
 
@@ -23,25 +23,28 @@ parent: Base
 
 This command is never actually seen by the conversation. Its entire purpose is to provide optional info to the implementation of Oyster running the script so that it can handle the script accordingly (Whether that be logging incompatibility as a warning or emulating Oyster features exclusive to that version is up to the implementation).
 
-It's also important to note that multiple 'meta' commands can be written in one script file and that there is no obligation for the 'meta' command to occur first in the script file. Some examples of using the 'meta' command are:
+It's also important to note that multiple 'meta' commands can be written in one script file and that there is no obligation for the 'meta' command to occur first in the script file.
+
+## Examples
 
 ```oscript
 meta [game="GroveGame"]
 meta [version="4.0.1"]
+```
+Target game is `GroveGame` and script version is `4.0.1`
 
-# Target game is "GroveGame" and script version is "4.0.1"
-
+```oscript
 meta [game="GroveGame"]
 meta [version="4.0.1"]
 meta [game="Not GroveGame"]
-
-# Target game is "Not GroveGame" and script version is "4.0.1"
-
-meta [game="GroveGame", version="4.0.1"]
-
-# Target game is "GroveGame" and script version is "4.0.1"
-
 ```
+
+Target game is `Not GroveGame` and script version is `4.0.1`
+
+```oscript
+meta [game="GroveGame", version="4.0.1"]
+```
+Target game is `GroveGame` and script version is `4.0.1`
 
 ## Version Info
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Start_Credits
-permalink: /supportedcommands/grovegame/start_credits
+permalink: /writing/supportedcommands/grovegame/start_credits
 parent: Christmas at Greyling Grove
 ---
 
@@ -20,6 +20,13 @@ parent: Christmas at Greyling Grove
 ## Functionality
 
 Instantly moves the game to the credits scene. Implemented as a hack to let Johny trigger the ending credits in Greyling Grove.
+
+## Examples
+
+```oscript
+Start_Credits []
+```
+Does as described in the "Functionality" section.
 
 ## Version Info
 
